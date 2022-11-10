@@ -2,9 +2,7 @@
   "name": "wonderful-world",
   "version": "0.1.0",
   "private": true,
-  "properties": {
-    "homepage": "https://rankedqju.github.io/wonderful-world"
-  },
+  "homepage": "https://rankedqju.github.io/wonderful-world",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
